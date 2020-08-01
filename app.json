@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "NoteMe",
+    "slug": "NoteMe",
+    "version": "1.0.0",
+    "orientation": "default",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "android": {
+      "package": "com.shhhhhreyas.NoteMe",
+      "versionCode": 1
+    }
+  }
+}

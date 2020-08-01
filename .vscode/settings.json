@@ -1,0 +1,11 @@
+{
+    "react-native.packager.port": 19001,
+    "editor.formatOnSave": true,
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": true,
+        "strings": true
+    },
+    "editor.snippetSuggestions": "top",
+    "editor.parameterHints": false
+}
